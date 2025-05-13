@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cgv2025/static/css/main.56c4877f.css",
+    "main.js": "/cgv2025/static/js/main.a43b58a3.js",
+    "index.html": "/cgv2025/index.html",
+    "main.56c4877f.css.map": "/cgv2025/static/css/main.56c4877f.css.map",
+    "main.a43b58a3.js.map": "/cgv2025/static/js/main.a43b58a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56c4877f.css",
+    "static/js/main.a43b58a3.js"
+  ]
+}
